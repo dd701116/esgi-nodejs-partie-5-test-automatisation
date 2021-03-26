@@ -1,0 +1,22 @@
+{
+  "name": "esgi-nodejs-partie-5-test-automatisation",
+  "version": "1.0.0",
+  "description": "Cours Node.js - Partie 5 - Validation, tests automatisés et intégration continue",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dd701116/esgi-nodejs-partie-5-test-automatisation.git"
+  },
+  "author": "Dieunelson Dorcelus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dd701116/esgi-nodejs-partie-5-test-automatisation/issues"
+  },
+  "homepage": "https://github.com/dd701116/esgi-nodejs-partie-5-test-automatisation#readme"
+}
